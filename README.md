@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello!
+
+Welcome to my GitHub! Please note that some projects listed do not have source code available because they are school projects and publicizing the code may result in academic dishonesty. Therefore, there are demo videos in place of the source code.
+
 
 <!--
 **matthewle87/matthewle87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
